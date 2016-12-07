@@ -1,6 +1,3 @@
-package com.company;
-
-
 import java.lang.reflect.*;
 import java.util.*;
 
